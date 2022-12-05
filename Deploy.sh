@@ -1,2 +1,2 @@
 
-echo "Deploying Build : "`date`
+echo "Deploying Building : "`date`
